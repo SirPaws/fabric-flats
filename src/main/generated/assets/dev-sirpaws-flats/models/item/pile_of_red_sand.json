@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dev-sirpaws-flats:item/pile_of_red_sand"
+  }
+}

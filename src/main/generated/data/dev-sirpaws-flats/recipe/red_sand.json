@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    },
+    {
+      "item": "dev-sirpaws-flats:pile_of_red_sand"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_sand"
+  }
+}
